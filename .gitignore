@@ -1,5 +1,8 @@
 #Environment variables
 .env
 
-#Node modules
-./node_modules
+#node_modules
+node_modules/
+
+#Idea
+.idea/
