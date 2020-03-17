@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d8b27e51-825f-456e-87c3-e65bcb39bd71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/graph.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/contact-tracked.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tokens.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/contacts.hbs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/contactsTracked.hbs" afterDir="false" />
-    </list>
+    <list default="true" id="d8b27e51-825f-456e-87c3-e65bcb39bd71" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584453563774</updated>
-      <workItem from="1584453566035" duration="16079000" />
+      <workItem from="1584453566035" duration="16119000" />
     </task>
     <servers />
   </component>
@@ -72,21 +62,25 @@
       <screen x="0" y="0" width="1366" height="746" />
     </state>
     <state x="413" y="178" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.746@0.0.1366.746" timestamp="1584455016235" />
-    <state width="1320" height="177" key="GridCell.Tab.0.bottom" timestamp="1584463608863">
+    <state width="1320" height="177" key="GridCell.Tab.0.bottom" timestamp="1584473677570">
       <screen x="0" y="0" width="1366" height="746" />
     </state>
-    <state width="1320" height="177" key="GridCell.Tab.0.bottom/0.0.1366.746@0.0.1366.746" timestamp="1584463608863" />
-    <state width="1320" height="177" key="GridCell.Tab.0.center" timestamp="1584463608862">
+    <state width="1320" height="177" key="GridCell.Tab.0.bottom/0.0.1366.746@0.0.1366.746" timestamp="1584473677570" />
+    <state width="1320" height="177" key="GridCell.Tab.0.center" timestamp="1584473677569">
       <screen x="0" y="0" width="1366" height="746" />
     </state>
-    <state width="1320" height="177" key="GridCell.Tab.0.center/0.0.1366.746@0.0.1366.746" timestamp="1584463608862" />
-    <state width="1320" height="177" key="GridCell.Tab.0.left" timestamp="1584463608862">
+    <state width="1320" height="177" key="GridCell.Tab.0.center/0.0.1366.746@0.0.1366.746" timestamp="1584473677569" />
+    <state width="1320" height="177" key="GridCell.Tab.0.left" timestamp="1584473677568">
       <screen x="0" y="0" width="1366" height="746" />
     </state>
-    <state width="1320" height="177" key="GridCell.Tab.0.left/0.0.1366.746@0.0.1366.746" timestamp="1584463608862" />
-    <state width="1320" height="177" key="GridCell.Tab.0.right" timestamp="1584463608863">
+    <state width="1320" height="177" key="GridCell.Tab.0.left/0.0.1366.746@0.0.1366.746" timestamp="1584473677568" />
+    <state width="1320" height="177" key="GridCell.Tab.0.right" timestamp="1584473677569">
       <screen x="0" y="0" width="1366" height="746" />
     </state>
-    <state width="1320" height="177" key="GridCell.Tab.0.right/0.0.1366.746@0.0.1366.746" timestamp="1584463608863" />
+    <state width="1320" height="177" key="GridCell.Tab.0.right/0.0.1366.746@0.0.1366.746" timestamp="1584473677569" />
+    <state x="360" y="100" width="645" height="546" key="find.popup" timestamp="1584473899705">
+      <screen x="0" y="0" width="1366" height="746" />
+    </state>
+    <state x="360" y="100" width="645" height="546" key="find.popup/0.0.1366.746@0.0.1366.746" timestamp="1584473899705" />
   </component>
 </project>

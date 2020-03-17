@@ -14,11 +14,12 @@
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
     "isomorphic-fetch": "^2.2.1",
+    "minimist": "^1.2.5",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.2",
+    "passport": "latest",
     "passport-azure-ad": "^4.2.1",
-    "simple-oauth2": "^3.3.0",
-    "passport": "latest"
+    "simple-oauth2": "^3.3.0"
   },
   "devDependencies": {
     "@microsoft/microsoft-graph-client": "^2.0.0",
