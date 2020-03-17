@@ -1,0 +1,17 @@
+body {
+  padding-top: 4.5rem;
+}
+
+.alert-pre {
+  word-wrap: break-word;
+  word-break: break-all;
+  white-space: pre-wrap;
+}
+
+#div1 {
+    float: left;
+}
+
+#div2 {
+    float: right;
+}

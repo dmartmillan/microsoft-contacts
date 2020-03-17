@@ -1,0 +1,29 @@
+<div id="div1">
+    <h1>Track contacts</h1>
+</div>
+<div id="div2">
+    <a href="/contact-tracked/sync" class="btn btn-primary btn-large">Track last changed contacts</a>
+</div>
+
+<table class="table">
+    <thead class="thead-light">
+    <th scope="col">Complete Name</th>
+    <th scope="col">Action</th>
+    </thead>
+    <tbody>
+    {{#each contactsTracked}}
+        <tr>
+            {{# if this.removed}}
+                <td>{{this.id}}</td>
+            {{else}}
+                <td>{{this.displayName}}</td>
+            {{/if}}
+            {{# if this.removed}}
+                <td> Removed </td>
+            {{else}}
+                <td> Created or updated </td>
+            {{/if}}
+        </tr>
+    {{/each}}
+    </tbody>
+</table>
