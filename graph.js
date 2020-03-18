@@ -27,7 +27,10 @@ module.exports = {
             .get();
 
         // On a real dev, it will need to scan all folders
-        // Get and save delta token in a database
+        // Get and save delta token in a database for each different contactFolder
+        // On this sample web app, we will only check default contactFolder, which corresponds to
+        // the first one
+
         const idFolder = folderList.value[0].id;
 
         let response = await client.api(`/me/contactFolders/${idFolder}/contacts/delta`)
@@ -65,12 +68,14 @@ module.exports = {
             .get();
 
         // On a real dev, it will need to scan all folders
-        // Get and save delta token in a database
+        // Get and save delta token in a database for each different contactFolder
+        // On this sample web app, we will only check default contactFolder, which corresponds to
+        // the first one
+
         const idFolder = folderList.value[0].id;
 
         let contacts = await client.api(`/me/contactFolders/${idFolder}/contacts/delta?$deltatoken=${deltaToken}`)
             .header('Prefer','odata.maxpagesize=100')
-            .version('beta')
             .get();
 
         var idDeltatoken = contacts['@odata.deltaLink'];
