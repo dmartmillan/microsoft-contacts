@@ -28,7 +28,7 @@ OAUTH_TOKEN_ENDPOINT=oauth2/v2.0/token
 
 ## Usage
 
-Before next step, you need to have installed `Node.js` and `NPM`.
+Before the next step, you need to have installed `Node.js` and `NPM`.
 
 ```bash
 npm install
