@@ -1,7 +1,7 @@
 # Microsoft Graph - Contacts
 
 Little sample of a Node.js Express web app, using [Microsoft Graph API](https://docs.microsoft.com/en-us/graph/api/overview?view=graph-rest-1.0). 
-Fundamentally, what we can see on this repo is how `delta` query could work for contacts resource.
+Fundamentally, what we can see on this repo is a little approah of how `delta` query could work for contacts resource.
 
 This code was built for a quick test, without any intention to put it on production. If this was your desire, we 
 recommend you to check up any kind of vulnerability and search out for more information.
