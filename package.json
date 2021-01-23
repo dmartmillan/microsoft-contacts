@@ -19,10 +19,12 @@
     "nodemon": "^2.0.2",
     "passport": "latest",
     "passport-azure-ad": "^4.2.1",
-    "simple-oauth2": "^3.3.0"
+    "simple-oauth2": "^3.3.0",
+    "node-fetch": ">=2.6.1"
   },
   "devDependencies": {
     "@microsoft/microsoft-graph-client": "^2.0.0",
-    "express-session": "^1.17.0"
+    "express-session": "^1.17.0",
+    "node-fetch": ">=2.6.1"
   }
 }
